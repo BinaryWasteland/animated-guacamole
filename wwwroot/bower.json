@@ -1,0 +1,28 @@
+{
+  "name": "web-template",
+  "description": "a template for creating new web apps quickly",
+  "main": "index.html",
+  "authors": [
+    "Greg R. Jacobs <greg.jacobs@binarywasteland.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "template",
+    "web",
+    "js",
+    "html",
+    "gulp",
+    "npm",
+    "bower"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

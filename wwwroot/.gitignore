@@ -1,0 +1,9 @@
+assets/css/scss/.sass-cache/
+config.codekit
+.codekit-cache/
+**/*.DS_Store
+*.DS_Store
+sublime-gulp.log
+.sublime-gulp.cache
+node_modules/
+assets/libs/components
